@@ -3,7 +3,7 @@ requires = ["flit"]
 build-backend = "flit.buildapi"
 
 [tool.flit.metadata]
-module = "slackipy"
+module = "slack2py"
 author = "Dhananjay"
 author-email = "dhananjay@ranium.in"
 classifiers = ["License :: OSI Approved :: MIT License"]
