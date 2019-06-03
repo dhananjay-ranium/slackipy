@@ -25,7 +25,13 @@ slack = webhook.setupWebhook("{webhook url}")
 
 slack.sendNotification("Notification_title", "Error Title", "Error text", "status code options:- success,info,warning,danger")
 ```
+# Contributing
+If you have any issue or idea which you want to share, [please open an issue].
+If you'd like to contribute, please fork the repository. Pull requests are warmly welcome.
 
+# License
+MIT
 
    [Register]: <https://slack.com/signin>
    [Login]: <https://slack.com/signin>
+   [please open an issue]: <https://github.com/dhananjay-ranium/slackipy/issues>
